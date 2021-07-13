@@ -2,6 +2,16 @@
 
 All designs, research and other documents.
 
+## Design Renders
+
+### Prose for macOS
+
+![prose-app-macos](./renders/designs/prose-app-macos.jpg)
+
+### Prose for iOS
+
+![prose-app-ios](./renders/designs/prose-app-ios.jpg)
+
 ## Clone instructions
 
 As this project uses Git LFS to store large files, it requires Git LFS to be available on the system cloning this repository.
