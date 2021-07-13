@@ -2,7 +2,7 @@
 
 All designs, research and other documents.
 
-## Design Renders
+## Rendered designs
 
 ### Prose for macOS
 
