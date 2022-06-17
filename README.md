@@ -1,8 +1,8 @@
 # prose-medley
 
-All designs, research and other documents.
+**All designs, research and other documents.**
 
-**Copyright 2022, Prose Foundation.**
+Copyright 2022, Prose Foundation.
 
 ## Rendered designs
 
