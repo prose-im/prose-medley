@@ -6,11 +6,11 @@ All designs, research and other documents.
 
 ### Prose for macOS
 
-![prose-app-macos](./renders/designs/prose-app-macos/preview.jpg)
+![prose-app-macos](https://user-images.githubusercontent.com/1451907/174251034-2a672878-ea2a-4537-b983-5816eb1b4fe6.jpg)
 
 ### Prose for iOS
 
-![prose-app-ios](./renders/designs/prose-app-ios/preview.jpg)
+![prose-app-ios](https://user-images.githubusercontent.com/1451907/174251056-fe0bad98-3826-4b03-bd3f-94cf825d90bb.jpg)
 
 ## Clone instructions
 
