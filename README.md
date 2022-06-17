@@ -2,6 +2,8 @@
 
 All designs, research and other documents.
 
+**Copyright 2022, Prose Foundation.**
+
 ## Rendered designs
 
 ### Prose for macOS
