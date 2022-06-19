@@ -2,7 +2,7 @@
 
 **All designs, research and other documents.**
 
-Copyright 2022, Prose Foundation.
+Copyright 2022, Prose Foundation - Released under the [Mozilla Public License 2.0](./LICENSE.md).
 
 ## Rendered designs
 
@@ -31,3 +31,7 @@ As this project uses Git LFS to store large files, it requires Git LFS to be ava
 `git clone git@github.com:prose-im/prose-medley.git`
 
 _⚠️ Make sure that the "filtering" step pulling a lot of data is executed (10MB+). This step comes after the "objects" pull step. It should take some time._
+
+## License
+
+Licensing information can be found in the [LICENSE.md](./LICENSE.md) document.
